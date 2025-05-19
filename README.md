@@ -13,4 +13,4 @@
     - Активировать виртуальное окружение: `source venv/Scripts/activate`
 3. Установить зависимости: `pip install -r requirements.txt`
 4. В папке со скриптом создать файл `.env` и добавить в него переменные окружения по шаблону `.env.example`
-5. Запустить скрипт любым удобным способом, например: `python get_users_2fa_status.py`
+5. Запустить скрипт: `python mailbox_size_counter.py`
